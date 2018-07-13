@@ -1,0 +1,8 @@
+{
+  "name": "taphandle-ionic",
+  "app_id": "2c0c7987",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
